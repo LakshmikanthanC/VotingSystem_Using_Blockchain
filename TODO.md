@@ -1,0 +1,8 @@
+- [x] Create src/Login.js component with login form
+- [x] Update src/App.js to conditionally render Login or main content based on login status
+- [x] Test the login functionality by running the app
+- [x] Next: Implement blockchain-based voting functionality
+- [ ] Next: Implement admin panel for candidate management and results
+- [ ] Next: Implement backend API and MongoDB integration for voter registration
+- [ ] Next: Add enhanced security and privacy features
+- [ ] Next: Add transparency and auditability features
